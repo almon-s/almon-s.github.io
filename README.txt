@@ -1,1 +1,1 @@
-Visit [here](https://almon-s.github.io/)!
+Visit here: https://almon-s.github.io/
